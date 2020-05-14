@@ -1,0 +1,9 @@
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.Common\bin\Debug\netcoreapp3.1\Queue-Server.Common.deps.json
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.Common\bin\Debug\netcoreapp3.1\Queue-Server.Common.dll
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.Common\bin\Debug\netcoreapp3.1\Queue-Server.Common.pdb
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.Common\obj\Debug\netcoreapp3.1\Queue-Server.Common.csprojAssemblyReference.cache
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.Common\obj\Debug\netcoreapp3.1\Queue-Server.Common.csproj.CoreCompileInputs.cache
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.Common\obj\Debug\netcoreapp3.1\Queue-Server.Common.AssemblyInfoInputs.cache
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.Common\obj\Debug\netcoreapp3.1\Queue-Server.Common.AssemblyInfo.cs
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.Common\obj\Debug\netcoreapp3.1\Queue-Server.Common.dll
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.Common\obj\Debug\netcoreapp3.1\Queue-Server.Common.pdb

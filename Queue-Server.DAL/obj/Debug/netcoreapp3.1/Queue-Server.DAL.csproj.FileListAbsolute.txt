@@ -1,0 +1,15 @@
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.DAL\bin\Debug\netcoreapp3.1\Queue-Server.DAL.deps.json
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.DAL\bin\Debug\netcoreapp3.1\Queue-Server.DAL.dll
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.DAL\obj\Debug\netcoreapp3.1\Queue-Server.DAL.csprojAssemblyReference.cache
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.DAL\obj\Debug\netcoreapp3.1\Queue-Server.DAL.AssemblyInfoInputs.cache
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.DAL\obj\Debug\netcoreapp3.1\Queue-Server.DAL.AssemblyInfo.cs
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.DAL\bin\Debug\netcoreapp3.1\Queue-Server.DAL.pdb
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.DAL\bin\Debug\netcoreapp3.1\Queue-Server.Common.dll
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.DAL\bin\Debug\netcoreapp3.1\Queue-Server.Common.pdb
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.DAL\obj\Debug\netcoreapp3.1\Queue-Server.DAL.csproj.CopyComplete
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.DAL\obj\Debug\netcoreapp3.1\Queue-Server.DAL.dll
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.DAL\obj\Debug\netcoreapp3.1\Queue-Server.DAL.pdb
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.DAL\bin\Debug\netcoreapp3.1\Queue-Server.DAL.runtimeconfig.json
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.DAL\bin\Debug\netcoreapp3.1\Queue-Server.DAL.runtimeconfig.dev.json
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.DAL\obj\Debug\netcoreapp3.1\Queue-Server.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Idam\source\repos\QueueProj\Queue-Server\Queue-Server.DAL\obj\Debug\netcoreapp3.1\Queue-Server.DAL.genruntimeconfig.cache
